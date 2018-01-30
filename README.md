@@ -15,4 +15,6 @@ rest elements in list.
 
 A* search algorithm uses f(n) = g(n) + h(n) which evaluates the total costs
 by adding the current costs up with estimate costs.
+  
+  
 ![name](https://github.com/AsianCoderAlert/pacman/blob/master/img/Astar.gif)
