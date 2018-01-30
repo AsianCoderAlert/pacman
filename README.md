@@ -13,6 +13,6 @@ as an FIFO structure. However, it also took linear time to move on all the
 rest elements in list.
 ![name](https://github.com/AsianCoderAlert/pacman/blob/master/img/BFS.gif)
 
-A* search algorithm uses f(n) = g(n) + h(n) which evaluates the total costs by 
-adding the current costs up with estimate costs.
+A* search algorithm uses f(n) = g(n) + h(n) which evaluates the total costs
+by adding the current costs up with estimate costs.
 ![name](https://github.com/AsianCoderAlert/pacman/blob/master/img/Astar.gif)
